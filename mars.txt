@@ -2,3 +2,5 @@ This is the Mars file.
 
 PLANET FACTS!:
 --------------
+- Olympus Mons, located on Mars, is the largest volcano in our solar system
+- Mars has two moons
